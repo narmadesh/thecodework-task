@@ -1,0 +1,7 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/resource/js/components/welcome.js": "/js/resource/js/components/welcome.js",
+    "/js/resource/js/components/tasks/add.js": "/js/resource/js/components/tasks/add.js",
+    "/js/resource/js/components/tasks/edit.js": "/js/resource/js/components/tasks/edit.js",
+    "/css/app.css": "/css/app.css"
+}
